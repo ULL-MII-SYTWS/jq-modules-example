@@ -2,7 +2,8 @@
 import "math" as math;
 
 {
-  "gcd":  math::gcd(.[0]; .[1]),
+  "input": .,
+  "gcd(0,1)":  math::gcd(.[0]; .[1]),
   "odd":  map(math::odd(.)),
   "even": map(math::even(.))
 }

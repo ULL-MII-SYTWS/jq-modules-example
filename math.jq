@@ -1,7 +1,7 @@
 module {
     name: "math",
     description: "Miscelaneous mathematical functions",
-    #namespace: "fadado.github.io",
+    namespace: "fadado.github.io",
     author: {
         name: "Casiano",
         email: "crguezl@ull.edu.es"
