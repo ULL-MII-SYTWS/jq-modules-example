@@ -1,0 +1,21 @@
+{
+  "name": "jq-modules",
+  "version": "1.0.0",
+  "description": "See <https://ull-mii-sytws.github.io/practicas/jq-exercises/>",
+  "main": "index.js",
+  "scripts": {
+    "test": "./main.jq input.json",
+    "start": "./use-math.jq input.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ULL-MII-SYTWS/jq-modules-example.git"
+  },
+  "keywords": [],
+  "author": "Casiano Rodriguez Leon <crguezl@ull.edu.es> (https://crguezl.github.io/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ULL-MII-SYTWS/jq-modules-example/issues"
+  },
+  "homepage": "https://github.com/ULL-MII-SYTWS/jq-modules-example#readme"
+}
