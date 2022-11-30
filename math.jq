@@ -15,11 +15,11 @@ module {
 ########################################################################
 # Simple utilities
 
-def even($n): #:: (number) => boolean
+def even($n): #:: (number) => number or empty
     if $n%2 == 0 then n else empty end
 ;
 
-def odd($n): #:: (number) => boolean
+def odd($n): #:: (number) => number or empty
     if $n%2 == 1 then n else empty end
 ;
 
