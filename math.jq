@@ -1,7 +1,10 @@
+// The module  directive is entirely optional. 
+// It's not required for proper operation. 
+// It serves only the purpose of providing metadata that can be read with the modulemeta builtin.
+// The metadata must be a constant jq expression. 
 module {
     name: "math",
     description: "Miscelaneous mathematical functions",
-    namespace: "fadado.github.io",
     author: {
         name: "Casiano",
         email: "crguezl@ull.edu.es"
