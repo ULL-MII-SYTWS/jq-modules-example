@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "./main.jq input.json",
-    "start": "./use-math.jq input.json"
+    "start": "./use-math.jq input.json",
+    "debug": "./use-add-numbers.jq so-cool.json"
   },
   "repository": {
     "type": "git",
